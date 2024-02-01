@@ -114,13 +114,13 @@
  
 |                           API 목록                           |                                              API 요청 데이터                                            |
 | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
-|![image](https://github.com/FAST-gamsungcoding/FE_MiniProject/assets/122848687/eb98e4b6-1cef-4b89-9353-c6a122f18668)|![image](https://github.com/FAST-gamsungcoding/FE_MiniProject/assets/122848687/55902cff-f5db-4a33-b7d7-50618803a627)|
-|       로그인 페이지이다. 각 Input 태그의 하단에 위치한 label로 유효성 검사 여부를 알 수 있다.       |                   이메일 중복 여부와 더불어 각 Input 태그의 하단에 위치한 label로 유효성 검사 여부를 알 수 있다.                     |
+|![캡처](https://github.com/Parkgeonmoo/CatchRoom/assets/50697545/f00b572f-0356-47df-9c97-71a69c9988b7) |![캡처](https://github.com/Parkgeonmoo/CatchRoom/assets/50697545/83b28909-a221-4833-b588-064f06932170)|
+|      API 목록 페이지이다. 해당 페이지를 통해 몇 개의 API와 어떤 API들이 있는지 확인할 수 있다.       |                  프론트에서 해당 API를 요청할 떄 필요로 하는 Input 데이터를 작성하여 호출하기 편하도록 작성하였다.                    |
 
-|                           API 목록                           |                                              API 요청 데이터                                            |
+|                           API 성공 응답 데이터                           |                                              API 실패 응답 데이터                                          |
 | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
-|![image](https://github.com/FAST-gamsungcoding/FE_MiniProject/assets/122848687/eb98e4b6-1cef-4b89-9353-c6a122f18668)|![image](https://github.com/FAST-gamsungcoding/FE_MiniProject/assets/122848687/55902cff-f5db-4a33-b7d7-50618803a627)|
-|       로그인 페이지이다. 각 Input 태그의 하단에 위치한 label로 유효성 검사 여부를 알 수 있다.       |                   이메일 중복 여부와 더불어 각 Input 태그의 하단에 위치한 label로 유효성 검사 여부를 알 수 있다.                     |
+|![캡처](https://github.com/Parkgeonmoo/CatchRoom/assets/50697545/0dd03572-5a83-4680-94fa-4f1d3ddedc40)|![캡처](https://github.com/Parkgeonmoo/CatchRoom/assets/50697545/70005fbe-4e52-4dea-b85f-a9d157f6fd48)|
+|      API 호출 성공을 하였을때 주는 값들을 적은 응답 데이터이다. 성공 시 return 하는 값을 알 수 있다.       |                   API호출 실패를 하였을때 주는 값들을 적은 응답 데이터이다. 실패 시 return 하는 값을 알 수 있다.                     |
 
 
 
