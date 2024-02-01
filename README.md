@@ -63,5 +63,9 @@
   # 📷 Screenshot
 
 # 실행 영상
-https://github.com/Parkgeonmoo/Traveler/assets/50697545/b05c0ea8-50b6-4530-b659-39105759c1c4
+
+https://github.com/Parkgeonmoo/CatchRoom/assets/50697545/c0bbc9e7-bded-4010-b39f-5957980cc767
+
+
+
     
