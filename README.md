@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="500" alt="image" src="https://github.com/catchroom/BE_CatchRoom/assets/114489245/94228459-9aef-4069-975d-bee133b5c7c2">
+</div>
+
  # 💡 Topic
 
 - **숙박 예약 서비스**
