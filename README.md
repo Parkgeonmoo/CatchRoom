@@ -109,6 +109,9 @@
 - slack webhook을 통한 서버 모니터링을 진행하면서 이슈가 발생했을 경우 트래킹을 더욱 빨리 할 수 있게 되었다.
 
  # ⚙ API 문서
+
+ ### [Swagger](https://www.catchroom.xyz/swagger-ui/index.html)
+: Swagger를 이용한 API 문서 작업
     
   ### [Notion](https://www.notion.so/v1-user-register-ca9e305116d349e7a9390b6205b0de45?pvs=4)
 : 노션을 이용한 API 문서 작업
@@ -123,6 +126,8 @@
 | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 |![캡처](https://github.com/Parkgeonmoo/CatchRoom/assets/50697545/0dd03572-5a83-4680-94fa-4f1d3ddedc40)|![캡처](https://github.com/Parkgeonmoo/CatchRoom/assets/50697545/70005fbe-4e52-4dea-b85f-a9d157f6fd48)|
 |      API 호출 성공을 하였을때 주는 값들을 적은 응답 데이터이다. 성공 시 return 하는 값을 알 수 있다.       |                   API호출 실패를 하였을때 주는 값들을 적은 응답 데이터이다. 실패 시 return 하는 값을 알 수 있다.                     |
+
+
 
 
 
