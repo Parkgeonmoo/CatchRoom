@@ -62,8 +62,10 @@
 
 # 🛠 Tech Stack
 
+- Language
+  - `java 17`
 - Framework
-  - `springboot`, `springsecurity`, `springcloud`
+  - `springboot 3.1.2`, `springsecurity`, `springcloud`
 
 - DB
   - `MongoDB`, `mysql`, `redis`
